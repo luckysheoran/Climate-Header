@@ -1,0 +1,22 @@
+
+
+.logo{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:50px;
+}
+
+.logo img{
+    width:50%;
+    border:2px solid black;
+}
+
+.message{
+    margin-top:10px;
+}
+
+.message p{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
